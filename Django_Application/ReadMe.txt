@@ -1,0 +1,3 @@
+- This is the backend Django application.
+- Utilizes the MySQL database - 'details'
+- use manage.py for (shell,dbshell,runserver)

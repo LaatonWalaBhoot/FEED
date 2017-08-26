@@ -1,0 +1,5 @@
+- part of the main Django application 'MyWork'
+- this is for REST API which gives a JSON response.
+- models.py contain the model for the database
+- serializers.py import the model and render the JSON response from it
+- this response has been uploaded to : https://api.myjson.com/bins/x5279 and has been used in the android app.

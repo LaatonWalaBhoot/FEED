@@ -1,0 +1,4 @@
+- Like and Unlike retaining has been fixed.
+- The generated rest api link from mysql database has been used in app
+- I manually saved the JSON response on web when i was satisfied with it on my local server.
+- api link: https://api.myjson.com/bins/x5279

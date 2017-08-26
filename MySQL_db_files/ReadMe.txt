@@ -1,0 +1,5 @@
+- The details folder contains all the database files made in MySQL.
+- Put this folder in C:\ProgramData\MySQL\MySQL Server 5.7\Data and run MySQL
+- Contains the schema for Django backend
+- This database is given as a JSON response by the Django application
+- Table name is items.
